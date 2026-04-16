@@ -1,0 +1,9 @@
+[project]
+name = "image-processing-microservice"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "awsebcli>=3.27.1",
+]
