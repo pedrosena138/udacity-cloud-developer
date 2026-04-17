@@ -1,0 +1,9 @@
+node_modules/*
+.venv/*
+.python-version
+CODEOWNERS
+LINCENSE
+*.jpeg
+uv.lock
+*.toml
+README.md
